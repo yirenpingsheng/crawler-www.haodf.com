@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/crawler/Crawler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/crawler/CrawlerHospital.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/model/DataModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/model/Hospital.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/utils/CrawlerUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/utils/ExcelUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/hao/utils/IOUtils.java" charset="UTF-8" />
+  </component>
+</project>
